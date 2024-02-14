@@ -1,5 +1,9 @@
 body{
-    background-color: yellow;
+   background-image: url(bg_imgage-min.jpg);
+            background-repeat: no-repeat;
+            background-size: conver;
+            background-position: center;
+
 }
 #box{
 width: 40vw;
